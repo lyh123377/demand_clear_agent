@@ -23,17 +23,11 @@
 
 ## 📦 安装部署
 
-### 1. 克隆项目
+
+### 1. 创建虚拟环境（推荐）
 
 ```bash
-git clone <repository_url>
-cd 需求澄清Agent
-```
-
-### 2. 创建虚拟环境（推荐）
-
-```bash
-python -m venv venv
+conda create -n demand_clear_agent python=3.10
 
 # Windows
 venv\Scripts\activate
@@ -45,6 +39,7 @@ source venv/bin/activate
 ### 3. 安装依赖
 
 ```bash
+conda activate demand_clear_agent
 pip install -r requirements.txt
 ```
 
