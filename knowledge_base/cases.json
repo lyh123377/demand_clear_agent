@@ -1,0 +1,1002 @@
+[
+  {
+    "case_id": "CASE_001",
+    "description": "需要设计一个穿着华丽礼服的精灵族女法师，身后有发光翅膀特效",
+    "type": "角色皮肤",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_1.png"
+  },
+  {
+    "case_id": "CASE_002",
+    "description": "游戏主界面的开始按钮，要求醒目且有动效感",
+    "type": "UI图标",
+    "style": "暗黑",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_2.png"
+  },
+  {
+    "case_id": "CASE_003",
+    "description": "魔法森林关卡的背景素材，需要营造神秘氛围",
+    "type": "关卡元素",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_3.png"
+  },
+  {
+    "case_id": "CASE_004",
+    "description": "五一劳动节活动宣传海报，主角是拿着工具的工人形象",
+    "type": "推广素材",
+    "style": "国风",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_4.png"
+  },
+  {
+    "case_id": "CASE_005",
+    "description": "SSR品质的角色皮肤，设计要有冲击力让人一眼就想抽",
+    "type": "角色皮肤",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_5.png"
+  },
+  {
+    "case_id": "CASE_006",
+    "description": "背包界面的物品图标，风格统一带光效",
+    "type": "UI图标",
+    "style": "Q版",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_6.png"
+  },
+  {
+    "case_id": "CASE_007",
+    "description": "沙漠关卡的沙尘暴粒子特效元素",
+    "type": "关卡元素",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_7.png"
+  },
+  {
+    "case_id": "CASE_008",
+    "description": "周年庆大型推广图，需要有庆典氛围",
+    "type": "推广素材",
+    "style": "像素",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_8.png"
+  },
+  {
+    "case_id": "CASE_009",
+    "description": "刺客类型的角色设计，要酷炫暗黑风格",
+    "type": "角色皮肤",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_9.png"
+  },
+  {
+    "case_id": "CASE_010",
+    "description": "成就系统的小图标合集，30个图标统一风格",
+    "type": "UI图标",
+    "style": "扁平",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_10.png"
+  },
+  {
+    "case_id": "CASE_011",
+    "description": "海底关卡的珊瑚和水草装饰元素",
+    "type": "关卡元素",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_11.png"
+  },
+  {
+    "case_id": "CASE_012",
+    "description": "新版本上线的宣传Banner",
+    "type": "推广素材",
+    "style": "暗黑",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_12.png"
+  },
+  {
+    "case_id": "CASE_013",
+    "description": "辅助型奶妈角色，要给人温柔治愈的感觉",
+    "type": "角色皮肤",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_13.png"
+  },
+  {
+    "case_id": "CASE_014",
+    "description": "商店界面的货币图标和购买按钮",
+    "type": "UI图标",
+    "style": "国风",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_14.png"
+  },
+  {
+    "case_id": "CASE_015",
+    "description": "火山关卡的熔岩流动效果素材",
+    "type": "关卡元素",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_15.png"
+  },
+  {
+    "case_id": "CASE_016",
+    "description": "节日活动的弹窗背景图",
+    "type": "推广素材",
+    "style": "Q版",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_16.png"
+  },
+  {
+    "case_id": "CASE_017",
+    "description": "射手远程攻击角色，装备弓箭设计",
+    "type": "角色皮肤",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_17.png"
+  },
+  {
+    "case_id": "CASE_018",
+    "description": "技能图标系列，水火雷风四元素",
+    "type": "UI图标",
+    "style": "像素",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_18.png"
+  },
+  {
+    "case_id": "CASE_019",
+    "description": "云端关卡的棉花糖云朵和彩虹元素",
+    "type": "关卡元素",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_19.png"
+  },
+  {
+    "case_id": "CASE_020",
+    "description": "游戏登录界面的背景图",
+    "type": "推广素材",
+    "style": "扁平",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_20.png"
+  },
+  {
+    "case_id": "CASE_021",
+    "description": "坦克肉盾角色，身披厚重铠甲",
+    "type": "角色皮肤",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_21.png"
+  },
+  {
+    "case_id": "CASE_022",
+    "description": "Buff状态图标，带有明显的增益视觉",
+    "type": "UI图标",
+    "style": "暗黑",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_22.png"
+  },
+  {
+    "case_id": "CASE_023",
+    "description": "夜间关卡的萤火虫和月光素材",
+    "type": "关卡元素",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_23.png"
+  },
+  {
+    "case_id": "CASE_024",
+    "description": "抽卡动画的背景和光效",
+    "type": "推广素材",
+    "style": "国风",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_24.png"
+  },
+  {
+    "case_id": "CASE_025",
+    "description": "法师群体攻击技能角色设计",
+    "type": "角色皮肤",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_25.png"
+  },
+  {
+    "case_id": "CASE_026",
+    "description": "装备强化界面的图标",
+    "type": "UI图标",
+    "style": "Q版",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_26.png"
+  },
+  {
+    "case_id": "CASE_027",
+    "description": "草原关卡的草地和树木元素",
+    "type": "关卡元素",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_27.png"
+  },
+  {
+    "case_id": "CASE_028",
+    "description": "新手引导的提示框和箭头",
+    "type": "推广素材",
+    "style": "像素",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_28.png"
+  },
+  {
+    "case_id": "CASE_029",
+    "description": "传说品质的武器外观设计",
+    "type": "角色皮肤",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_29.png"
+  },
+  {
+    "case_id": "CASE_030",
+    "description": "任务系统的大图标和进度条",
+    "type": "UI图标",
+    "style": "扁平",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_30.png"
+  },
+  {
+    "case_id": "CASE_031",
+    "description": "遗迹关卡的古老石柱和神秘符文",
+    "type": "关卡元素",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_31.png"
+  },
+  {
+    "case_id": "CASE_032",
+    "description": "活动专属的限定皮肤",
+    "type": "推广素材",
+    "style": "暗黑",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_32.png"
+  },
+  {
+    "case_id": "CASE_033",
+    "description": "召唤兽的角色设计，萌系风格",
+    "type": "角色皮肤",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_33.png"
+  },
+  {
+    "case_id": "CASE_034",
+    "description": "设置界面的扳手和齿轮图标",
+    "type": "UI图标",
+    "style": "国风",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_34.png"
+  },
+  {
+    "case_id": "CASE_035",
+    "description": "雨林关卡的藤蔓和热带植物",
+    "type": "关卡元素",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_35.png"
+  },
+  {
+    "case_id": "CASE_036",
+    "description": "VIP特权的专属标识图标",
+    "type": "推广素材",
+    "style": "Q版",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_36.png"
+  },
+  {
+    "case_id": "CASE_037",
+    "description": "战士近战攻击角色，手持大剑",
+    "type": "角色皮肤",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_37.png"
+  },
+  {
+    "case_id": "CASE_038",
+    "description": "地图选择界面的关卡预览图",
+    "type": "UI图标",
+    "style": "像素",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_38.png"
+  },
+  {
+    "case_id": "CASE_039",
+    "description": "星空关卡的星球和流星素材",
+    "type": "关卡元素",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_39.png"
+  },
+  {
+    "case_id": "CASE_040",
+    "description": "每日签到的奖励图标",
+    "type": "推广素材",
+    "style": "扁平",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_40.png"
+  },
+  {
+    "case_id": "CASE_041",
+    "description": "辅助控制型角色设计",
+    "type": "角色皮肤",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_41.png"
+  },
+  {
+    "case_id": "CASE_042",
+    "description": "技能冷却指示器图标",
+    "type": "UI图标",
+    "style": "暗黑",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_42.png"
+  },
+  {
+    "case_id": "CASE_043",
+    "description": "沼泽关卡的毒气泡和水蛭元素",
+    "type": "关卡元素",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_43.png"
+  },
+  {
+    "case_id": "CASE_044",
+    "description": "排行榜的前三名头像框",
+    "type": "推广素材",
+    "style": "国风",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_44.png"
+  },
+  {
+    "case_id": "CASE_045",
+    "description": "召唤师职业角色，能召唤宠物作战",
+    "type": "角色皮肤",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_45.png"
+  },
+  {
+    "case_id": "CASE_046",
+    "description": "邮件系统的图标和信封样式",
+    "type": "UI图标",
+    "style": "Q版",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_46.png"
+  },
+  {
+    "case_id": "CASE_047",
+    "description": "古代遗迹关卡的石像和机关",
+    "type": "关卡元素",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_47.png"
+  },
+  {
+    "case_id": "CASE_048",
+    "description": "节日限定返场皮肤",
+    "type": "推广素材",
+    "style": "像素",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_48.png"
+  },
+  {
+    "case_id": "CASE_049",
+    "description": "盗贼敏捷型角色设计",
+    "type": "角色皮肤",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_49.png"
+  },
+  {
+    "case_id": "CASE_050",
+    "description": "背包物品的分类标签图标",
+    "type": "UI图标",
+    "style": "扁平",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_50.png"
+  },
+  {
+    "case_id": "CASE_051",
+    "description": "雨雪天气关卡的天气粒子",
+    "type": "关卡元素",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_51.png"
+  },
+  {
+    "case_id": "CASE_052",
+    "description": "好友系统的头像和添加按钮",
+    "type": "推广素材",
+    "style": "暗黑",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_52.png"
+  },
+  {
+    "case_id": "CASE_053",
+    "description": "牧师神圣型角色，手持圣光",
+    "type": "角色皮肤",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_53.png"
+  },
+  {
+    "case_id": "CASE_054",
+    "description": "角色详情界面的边框装饰",
+    "type": "UI图标",
+    "style": "国风",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_54.png"
+  },
+  {
+    "case_id": "CASE_055",
+    "description": "副本入口的传送门特效",
+    "type": "关卡元素",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_55.png"
+  },
+  {
+    "case_id": "CASE_056",
+    "description": "氪金礼包的特殊标识",
+    "type": "推广素材",
+    "style": "Q版",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_56.png"
+  },
+  {
+    "case_id": "CASE_057",
+    "description": "刺客隐身状态的角色造型",
+    "type": "角色皮肤",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_57.png"
+  },
+  {
+    "case_id": "CASE_058",
+    "description": "升级特效的金币和星星素材",
+    "type": "UI图标",
+    "style": "像素",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_58.png"
+  },
+  {
+    "case_id": "CASE_059",
+    "description": "冰雪关卡的冰晶和雪花",
+    "type": "关卡元素",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_59.png"
+  },
+  {
+    "case_id": "CASE_060",
+    "description": "排行榜的赛季标识",
+    "type": "推广素材",
+    "style": "扁平",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_60.png"
+  },
+  {
+    "case_id": "CASE_061",
+    "description": "战士野蛮人类型，力大无穷",
+    "type": "角色皮肤",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_61.png"
+  },
+  {
+    "case_id": "CASE_062",
+    "description": "体力系统的闪电和能量图标",
+    "type": "UI图标",
+    "style": "暗黑",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_62.png"
+  },
+  {
+    "case_id": "CASE_063",
+    "description": "水下关卡的气泡和水流特效",
+    "type": "关卡元素",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_63.png"
+  },
+  {
+    "case_id": "CASE_064",
+    "description": "公会系统的旗帜和徽章图标",
+    "type": "推广素材",
+    "style": "国风",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_64.png"
+  },
+  {
+    "case_id": "CASE_065",
+    "description": "亡灵不死族角色，骷髅造型",
+    "type": "角色皮肤",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_65.png"
+  },
+  {
+    "case_id": "CASE_066",
+    "description": "战斗结算界面的装饰边框",
+    "type": "UI图标",
+    "style": "Q版",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_66.png"
+  },
+  {
+    "case_id": "CASE_067",
+    "description": "天空关卡的热气球和飞鸟",
+    "type": "关卡元素",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_67.png"
+  },
+  {
+    "case_id": "CASE_068",
+    "description": "首充特惠的专属图标",
+    "type": "推广素材",
+    "style": "像素",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_68.png"
+  },
+  {
+    "case_id": "CASE_069",
+    "description": "猎人弓手角色，远距离输出",
+    "type": "角色皮肤",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_69.png"
+  },
+  {
+    "case_id": "CASE_070",
+    "description": "公告系统的广播图标",
+    "type": "UI图标",
+    "style": "扁平",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_70.png"
+  },
+  {
+    "case_id": "CASE_071",
+    "description": "机械关卡的齿轮和蒸汽管道",
+    "type": "关卡元素",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_71.png"
+  },
+  {
+    "case_id": "CASE_072",
+    "description": "限定抽卡的概率UP标识",
+    "type": "推广素材",
+    "style": "暗黑",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_72.png"
+  },
+  {
+    "case_id": "CASE_073",
+    "description": "法师冰系专精角色",
+    "type": "角色皮肤",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_73.png"
+  },
+  {
+    "case_id": "CASE_074",
+    "description": "聊天界面的表情包图标",
+    "type": "UI图标",
+    "style": "国风",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_74.png"
+  },
+  {
+    "case_id": "CASE_075",
+    "description": "火山岩浆关卡的高温警示元素",
+    "type": "关卡元素",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_75.png"
+  },
+  {
+    "case_id": "CASE_076",
+    "description": "签到连续天数奖励图标",
+    "type": "推广素材",
+    "style": "Q版",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_76.png"
+  },
+  {
+    "case_id": "CASE_077",
+    "description": "骑士防御型角色，重甲骑士",
+    "type": "角色皮肤",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_77.png"
+  },
+  {
+    "case_id": "CASE_078",
+    "description": "声音设置的音量图标",
+    "type": "UI图标",
+    "style": "像素",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_78.png"
+  },
+  {
+    "case_id": "CASE_079",
+    "description": "森林精灵关卡的萤火虫群",
+    "type": "关卡元素",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_79.png"
+  },
+  {
+    "case_id": "CASE_080",
+    "description": "月卡标识的太阳月亮图标",
+    "type": "推广素材",
+    "style": "扁平",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_80.png"
+  },
+  {
+    "case_id": "CASE_081",
+    "description": "召唤师死灵法师，操控亡灵",
+    "type": "角色皮肤",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_81.png"
+  },
+  {
+    "case_id": "CASE_082",
+    "description": "活动倒计时的特别边框",
+    "type": "UI图标",
+    "style": "暗黑",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_82.png"
+  },
+  {
+    "case_id": "CASE_083",
+    "description": "战士狂战士，爆发输出型",
+    "type": "关卡元素",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_83.png"
+  },
+  {
+    "case_id": "CASE_084",
+    "description": "仓库界面的格子图标",
+    "type": "推广素材",
+    "style": "国风",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_84.png"
+  },
+  {
+    "case_id": "CASE_085",
+    "description": "迷雾关卡的朦胧雾气素材",
+    "type": "角色皮肤",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_85.png"
+  },
+  {
+    "case_id": "CASE_086",
+    "description": "充值档位的特惠标识",
+    "type": "UI图标",
+    "style": "Q版",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_86.png"
+  },
+  {
+    "case_id": "CASE_087",
+    "description": "治疗辅助角色设计",
+    "type": "关卡元素",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_87.png"
+  },
+  {
+    "case_id": "CASE_088",
+    "description": "队伍系统的编队图标",
+    "type": "推广素材",
+    "style": "像素",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_88.png"
+  },
+  {
+    "case_id": "CASE_089",
+    "description": "废墟关卡的断壁残垣元素",
+    "type": "角色皮肤",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_89.png"
+  },
+  {
+    "case_id": "CASE_090",
+    "description": "实名认证的认证标识",
+    "type": "UI图标",
+    "style": "扁平",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_90.png"
+  },
+  {
+    "case_id": "CASE_091",
+    "description": "幻术师迷惑型角色",
+    "type": "关卡元素",
+    "style": "甜美",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_91.png"
+  },
+  {
+    "case_id": "CASE_092",
+    "description": "商城推荐的热门图标",
+    "type": "推广素材",
+    "style": "暗黑",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_92.png"
+  },
+  {
+    "case_id": "CASE_093",
+    "description": "洞窟关卡的矿石和宝石",
+    "type": "角色皮肤",
+    "style": "赛博",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_93.png"
+  },
+  {
+    "case_id": "CASE_094",
+    "description": "每日任务的刷新标识",
+    "type": "UI图标",
+    "style": "国风",
+    "dimensions": "128x128",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_94.png"
+  },
+  {
+    "case_id": "CASE_095",
+    "description": "暗影刺客双刃流角色",
+    "type": "关卡元素",
+    "style": "科幻",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_95.png"
+  },
+  {
+    "case_id": "CASE_096",
+    "description": "世界地图的全景缩略图",
+    "type": "推广素材",
+    "style": "Q版",
+    "dimensions": "1242x2688",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_96.png"
+  },
+  {
+    "case_id": "CASE_097",
+    "description": "新手礼包的开启动画素材",
+    "type": "角色皮肤",
+    "style": "写实",
+    "dimensions": "1024x1024",
+    "layered": "是",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_97.png"
+  },
+  {
+    "case_id": "CASE_098",
+    "description": "仙侠风格的女剑客角色设计",
+    "type": "UI图标",
+    "style": "像素",
+    "dimensions": "128x128",
+    "layered": "否",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_98.png"
+  },
+  {
+    "case_id": "CASE_099",
+    "description": "装备强化+10的光效图标",
+    "type": "关卡元素",
+    "style": "水彩",
+    "dimensions": "1024x1024",
+    "layered": "否",
+    "result": "成功",
+    "thumbnail": "https://placeholder.com/thumb_99.png"
+  },
+  {
+    "case_id": "CASE_100",
+    "description": "森林关卡的蘑菇小屋素材",
+    "type": "推广素材",
+    "style": "扁平",
+    "dimensions": "1242x2688",
+    "layered": "是",
+    "result": "返工后成功",
+    "thumbnail": "https://placeholder.com/thumb_100.png"
+  }
+]

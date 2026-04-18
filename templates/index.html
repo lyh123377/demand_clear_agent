@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>美术需求澄清助手</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">🎨</span>
+                    <h1>美术需求澄清助手</h1>
+                </div>
+                <div class="header-actions">
+                    <button id="newChatBtn" class="btn btn-secondary" title="开始新对话">
+                        <span>➕</span> 新对话
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 对话区域 -->
+            <div class="chat-container" id="chatContainer">
+                <div class="messages" id="messages">
+                    <!-- 欢迎消息 -->
+                    <div class="message assistant">
+                        <div class="message-avatar">🤖</div>
+                        <div class="message-content">
+                            <div class="message-text">
+                                <p>👋 欢迎使用 <strong>美术需求澄清助手</strong>！</p>
+                                <p>我可以帮助您结构化美术需求，通过多轮对话明确关键信息，减少沟通成本和返工率。</p>
+                                <p style="margin-top: 12px;">请告诉我您的大致需求，比如：</p>
+                                <ul>
+                                    <li>"我需要一个角色皮肤"</li>
+                                    <li>"做一套UI图标"</li>
+                                    <li>"设计一个关卡背景"</li>
+                                </ul>
+                                <p style="margin-top: 12px;">我会通过几个问题帮您明确关键信息。🎨</p>
+                            </div>
+                            <div class="message-time">{{ current_time }}</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 进度指示器 -->
+                <div class="progress-indicator" id="progressIndicator" style="display: none;">
+                    <div class="progress-title">📋 需求收集进度</div>
+                    <div class="progress-items">
+                        <div class="progress-item" data-field="type">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">类型</span>
+                        </div>
+                        <div class="progress-item" data-field="style">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">风格</span>
+                        </div>
+                        <div class="progress-item" data-field="dimensions">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">尺寸</span>
+                        </div>
+                        <div class="progress-item" data-field="layering">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">分层</span>
+                        </div>
+                        <div class="progress-item" data-field="spine">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">Spine</span>
+                        </div>
+                        <div class="progress-item" data-field="delivery">
+                            <span class="progress-icon">⚪</span>
+                            <span class="progress-label">交付</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 需求卡片区域 -->
+            <div class="card-panel" id="cardPanel">
+                <div class="card-header">
+                    <h2>📋 结构化需求卡片</h2>
+                    <div class="card-header-buttons">
+{#                        <button class="btn btn-small" id="saveCardBtn" title="保存修改">💾 保存</button>#}
+                        <button class="btn btn-small" id="exportJsonBtn" title="导出JSON文件">📄 导出JSON</button>
+{#                        <button class="btn btn-small" id="copyCardBtn" title="复制卡片">📋 复制</button>#}
+                    </div>
+                </div>
+                <div class="card-content" id="cardContent">
+                    <!-- 卡片内容会动态插入 -->
+                    <div class="loading-placeholder">加载中...</div>
+                </div>
+            </div>
+
+            <!-- 输入区域 -->
+            <div class="input-area">
+                <div class="input-container">
+                    <textarea
+                        id="messageInput"
+                        placeholder="输入您的需求或回复..."
+                        rows="1"
+                        autofocus
+                    ></textarea>
+                    <button class="send-btn" id="sendBtn" title="发送">
+                        <span>➤</span>
+                    </button>
+                </div>
+                <div class="input-hints">
+                    <span class="hint">💡 输入需求后按 Enter 发送，Shift+Enter 换行</span>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
